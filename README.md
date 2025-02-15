@@ -1,5 +1,3 @@
-# Backend-Docs
-
 # Understanding Internet Networks, Web, and More
 
 ## 1. Introduction to Internet Networks and the Web
